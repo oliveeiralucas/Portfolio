@@ -1,0 +1,21 @@
+Cores do projeto: #37306B, #66347F, #9E4784, #D27685
+
+Fontes: poppins
+
+Cabeçalho
+ {
+	Lucas (ponto colorido)
+
+	menu
+	{
+		Home 
+		About
+		Skills
+		Services
+		Portfolio 
+		{
+			Testimonial
+		}
+		Contact Me
+	}	
+}
