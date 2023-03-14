@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color:#37306B ;
+}
+
+body{
+    background-color:#37306B ;
+
+}
+
+.lucas{
+    font-size: 2rem;
+    font-weight: 800;
+    padding-right:7px;
+    color: white;
+}
+
+.lucasponto {
+    background: linear-gradient(45deg, rgba(55,48,107,1) 14%, rgba(102,52,127,1) 54%, rgba(158,71,132,1) 83%);
+    border-radius: 50%;
+    width: 1px;
+    height: 3px;
+    color: transparent;
+    bottom: 0;
+  }
+
+.fonteHeader{
+   color: #9E4784;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #9E4784;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    --bs-nav-link-hover-color: #D27685;
+}
+
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+
+.card-text{
+    color: white;
+
+
+}
+
+.botao{
+
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    color: white;
+    background-color: #66347F ;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.icon-comprimento{
+    font-size: 25px;
+
+}
+
+.icon-comprimentoo{
+    font-size: 30px;
+}
+
+
+footer{
+    padding: 40px;
+}
+
+
+.icones{
+color: #9E4784;
+text-decoration: none;
+background: transparent;
+}
+
+.icones:hover{
+    color:#D27685;
+}
+
+.meu-padding-top {
+    padding-top: 3rem;
+}
+
+.my-a{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+    --bs-nav-link-hover-color: #D27685;
+}
+
+.meu-ul {
+    float: left;
+    margin-right: 20px;
+  }
+
+
+.botao img{
+    background: transparent;
+}
+
+
+.botao-scroll {
+    position: relative;
+    top: 0;
+    transition: .3s;
+  }
+
+.botao-scroll:hover {
+    transform: translateY(10px);
+}
+
+
+.botao-contact {
+    position: relative;
+    transition: transform 0.3s ease-out;
+  }
+
+.botao-contact:hover {
+    transform: translatex(5px);
+}
+
+
+.aboutme{
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    padding-top: 5rem;
+}
+
+.aboutmeintroduction{
+    color:rgba(255,255,255,0.8);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.aboutmeintroductionn{
+    color:#D27685;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.aboutmetext{
+    color: white;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.aboutmenumbers{
+    color: #9E4784;
+    font-size: 3rem;
+    font-weight: 700;
+}
