@@ -56,3 +56,16 @@ Home
 	}
 }
 
+About
+{
+	Imagem lateral
+	Texto breve (introdução)
+	Números
+	{
+		Certificados
+		Meses de experiencia
+		Projetos Concluídos
+	}
+
+}
+
